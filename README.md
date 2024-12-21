@@ -177,5 +177,24 @@ Publish the website in the given URL.
 ```
 # OUTPUT:
 ![alt text](<Screenshot (29).png>)
+![Screenshot 2024-12-21 160725](https://github.com/user-attachments/assets/d46f383d-bd66-4f7d-9fad-787898f86a3a)
+![Screenshot 2024-12-21 160744](https://github.com/user-attachments/assets/ec273159-5d9e-4464-b015-a8d36b7dceec)
+![Screenshot 2024-12-21 160804](https://github.com/user-attachments/assets/57854b16-59a5-458f-95cf-dd645eb0040a)
+![Screenshot 2024-12-21 160823](https://github.com/user-attachments/assets/40c2dad6-8e90-44ec-81a3-dfa59820dbf1)
+![Screenshot 2024-12-21 160835](https://github.com/user-attachments/assets/12c5fcd0-6263-4f40-84fc-120cea331923)
+![Screenshot 2024-12-21 160848](https://github.com/user-attachments/assets/d8c74917-99af-4f1c-9012-8a502a5d5ade)
+![Screenshot 2024-12-21 160902](https://github.com/user-attachments/assets/ae77c927-df38-46e1-8364-729fbbc03749)
+![Screenshot 2024-12-21 160912](https://github.com/user-attachments/assets/d093ce01-76e1-4ccc-835d-b03489210a1c)
+![Screenshot 2024-12-21 160923](https://github.com/user-attachments/assets/73167b1d-c53b-4049-a53c-dd993bb7c041)
+![Screenshot 2024-12-21 160936](https://github.com/user-attachments/assets/72e3e7a7-1471-4025-adbf-c249dbd810c6)
+
+
+
+
+
+
+
+
+
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
